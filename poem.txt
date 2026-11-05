@@ -9,4 +9,4 @@ Unicorn
 Yellow
 Red
 These are the colors of the rainbow.
-Ant the Unicorn.
+And the Unicorn.
